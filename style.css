@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+    height: 100vh;
+
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.container {
+    width: 330px;
+    border-radius: 0.8em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    padding: 1.5em;
+    background-color: hsl(0, 0%, 12%);
+}
+
+img {
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 4px;
+}
+
+.name {
+    font-size: 1.6em;
+}
+
+.place{
+    font-size: 0.9em;
+    color: hsl(75, 94%, 57%);
+    margin-top: -0.9em;
+    margin-bottom: 4px;
+}
+
+.heading{
+    font-size: 14px;
+    color: hsl(0, 1%, 81%);
+}
+
+.platform{
+    border-radius: 0.8em;
+    width: 85%;
+    text-align: center;
+    padding: 1em;
+    font-size: 0.9em;
+    background-color: hsl(0, 0%, 20%);
+    margin-bottom: 6px;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+}
+.platform:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+    cursor: url("assets/images/hand-cursor.png") 10 2, pointer;
+}

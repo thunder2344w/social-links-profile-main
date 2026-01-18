@@ -26,9 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project](./screenshot.png)
+![Screenshot of the project](./images/screenshot-1.png)
 
-> 📌 Add a screenshot of your final design and name it `screenshot.png`
 
 ### Links
 
@@ -60,7 +59,7 @@ In future projects, I want to:
 
 ## Author
 
-- Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor – [@thunder2344w](https://www.frontendmentor.io/profile/thunder2344w)
 
 ## Acknowledgments
 

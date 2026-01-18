@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here]
-- Live Site URL: [Add your live site URL here]
+- Solution URL: [https://github.com/thunder2344w/social-links-profile-main.git]
+- Live Site URL: [https://thunder2344w.github.io/social-links-profile-main/]
 
 ## My process
 
